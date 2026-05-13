@@ -1,5 +1,9 @@
 # MATH APOCALYPSE: DIMENSIONAL FLIP [ULTIMATE EDITION]
 
+<p align="center">
+  <img src="assets/logo.png" alt="Math Apocalypse Logo" width="400"/>
+</p>
+
 > A balls-to-the-wall math game that starts as a retro shooter and **FLIPS** into a calculus platformer at Level 11.
 
 Built by Dennis J. Carroll — evolved from a simple Pygame math quiz into a full chaos engine with 7 interlocking systems.
